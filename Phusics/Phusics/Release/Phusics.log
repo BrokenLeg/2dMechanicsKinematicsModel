@@ -1,0 +1,49 @@
+﻿  Phusics.cpp
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(4,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(4,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "NullV"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(40,19): error C3646: Begin: неизвестный спецификатор переопределения
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(40,19): error C2059: синтаксическая ошибка: ,
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(40,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(42,65): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(43,13): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(42,59): error C2614: SurfaceLine: недопустимая инициализация члена: "Begin" не является базовым классом или членом
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(43,9): error C2614: SurfaceLine: недопустимая инициализация члена: "End" не является базовым классом или членом
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(48,22): error C3646: Position: неизвестный спецификатор переопределения
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(48,22): error C2059: синтаксическая ошибка: ,
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(48,53): error C2238: непредвиденные лексемы перед ";"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(51,9): error C2061: синтаксическая ошибка: идентификатор "Vector2f"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(51,82): error C2065: Pos: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,18): error C2065: Vel: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,38): error C2065: Acc: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,46): error C2065: r: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,52): error C2065: _m: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,75): error C2065: _m: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,63): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(51,73): error C2614: Body: недопустимая инициализация члена: "Position" не является базовым классом или членом
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,9): error C2614: Body: недопустимая инициализация члена: "Velocity" не является базовым классом или членом
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,25): error C2614: Body: недопустимая инициализация члена: "Acceleration" не является базовым классом или членом
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(52,57): error C2614: Body: недопустимая инициализация члена: "Force" не является базовым классом или членом
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(55,9): error C2065: Acceleration: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(55,24): error C2065: Force: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(56,9): error C2065: Velocity: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(56,20): error C2065: Velocity: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(56,31): error C2065: Acceleration: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(57,9): error C2065: Position: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(57,20): error C2065: Position: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(57,31): error C2065: Velocity: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "PA"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,27): error C2039: "Position": не является членом "Body".
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(46): message : см. объявление "Body"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,45): error C2039: "Begin": не является членом "SurfaceLine".
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(38): message : см. объявление "SurfaceLine"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,18): error C3861: PA: идентификатор не найден
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,64): error C2039: "End": не является членом "SurfaceLine".
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(38): message : см. объявление "SurfaceLine"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,77): error C2039: "Begin": не является членом "SurfaceLine".
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(38): message : см. объявление "SurfaceLine"
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(61,53): error C3861: BA: идентификатор не найден
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(62,19): error C2065: PA: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(62,24): error C2065: BA: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(70,12): error C2065: NullV: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(70,19): error C2065: NullV: необъявленный идентификатор
+C:\Users\User\source\repos\Phusics\Phusics\Phusics.cpp(70,26): error C2065: NullV: необъявленный идентификатор
